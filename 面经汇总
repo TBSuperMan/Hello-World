@@ -2,11 +2,12 @@
 
 Java异常体系
 怎么获取class对象
-反射是什么，有什么优缺点，有哪些应用场景
+反射是什么，有什么优缺点，原理，有哪些应用场景，
 HashMap、TreeMap、LinkedHashMap
 HashMap的原理
 equals和hashCode方法了解多少说多少
 HashTable和HashMap的区别
+TreeMap和HashMap的区别
 LinkedList和ArrayList的区别
 谈谈fail fast机制，ConcurrentModificationException是怎么抛出来的
 String、StringBuilder、StringBuffer
@@ -24,6 +25,7 @@ final修饰变量、方法、类
 介绍一下Object的clone方法
 抽象类和接口的区别
 谈谈对Java语言的理解
+java多态的实现
 
 2 Java并发
 Java线程有哪些状态
@@ -112,6 +114,7 @@ get和post
 cookie和session的作用和区别
 tcp保证可靠传输的各项措施，以及这些措施各自的作用
 http各版本的区别，目前主流版本
+http状态码含义
 详细描述三次握手和四次挥手
 四次挥手中timeWait的作用，实际时长是多少
 应用层、传输层有什么协议
